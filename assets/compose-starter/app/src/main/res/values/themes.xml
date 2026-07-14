@@ -1,0 +1,4 @@
+<resources>
+    <!-- Framework theme (no extra deps); Compose draws its own UI on top. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
